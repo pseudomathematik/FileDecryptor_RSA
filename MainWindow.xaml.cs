@@ -40,7 +40,7 @@ namespace WpfApp_Decrypt_RSA
 		}
 		private void button_Info_Click(object sender, RoutedEventArgs e)
 		{	
-			//Доделать текст справки
+			
 			Info.ShowInfo();
 			return;
 		}
