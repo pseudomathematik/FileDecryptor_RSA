@@ -68,6 +68,7 @@
     <Compile Include="Cyrillic_or_UTF8_Symbols.cs" />
     <Compile Include="Dialogs_Msg.cs" />
     <Compile Include="FileDecryptor.cs" />
+    <Compile Include="Info.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
